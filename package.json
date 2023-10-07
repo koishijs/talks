@@ -6,10 +6,10 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.22.1",
+    "@slidev/cli": "^0.43.6",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "slidev-theme-penguin": "^1.1.2"
+    "slidev-theme-penguin": "^2.1.0"
   },
   "name": "koishi"
 }
